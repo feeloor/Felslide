@@ -16,10 +16,12 @@ Instruktioner
 - Börja med att hämta en kopia av JQuery vilket du kan göra <a href="http://jquery.com/">här</a><br>
 - Inkludera JQuery i ditt projekt genom att skriva till följande kodrad i "head": 
 
+
 	<script src="SÖKVÄG TILL DIN KOPIA AV JQUERY"></script>
 
 - Gå sedan vidare med att ladda ner Felslide <a href="https://github.com/feeloor/Felslide">här</a>
 - Inkludera Felslide genom att skriva följade kodrad i "head": 
+
 
 	<link rel='stylesheet' href='DIN KOPIA AV FELSLIDE CSS' type='text/css'>
 	<script src='SÖKVÄG TILL DIN KOPIA AV FELSLIDE JS'></script>		
